@@ -155,5 +155,3 @@ m[[2]]
 m[[2]][2]
 
 m[c(1,2), c(2,3)] # accessing multiple items from a data frame
-
-# End of Data Types
