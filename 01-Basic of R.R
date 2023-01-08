@@ -4,8 +4,8 @@
   # Developed by Ross Ihaka & Robert Gentleman
   # Case sensitive language
 
-1:20 # print numbers from 1:50
-20:1 # print numbers 50:1 in reverse order
+1:20 # print numbers from 1:20
+20:1 # print numbers 20:1 in reverse order
 print(1:15)
 print(15:1)
 
